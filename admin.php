@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <?php 
-/*session_start();
+session_start();
 if (empty($_SESSION['name'])){
 	header("Location:users.php");
-}*/
+}
 ?>
 <html>
 
